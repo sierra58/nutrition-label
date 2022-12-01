@@ -1,2 +1,7 @@
 # nutrition-label
-Nutrition Label | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Nutrition Label
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
